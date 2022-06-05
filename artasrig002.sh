@@ -1,4 +1,4 @@
-bin/bash
+#!/bin/bash
 clear
 lscpu
 sudo apt install screen
